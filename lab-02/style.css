@@ -1,0 +1,83 @@
+body{
+   background-image:url(/cs472/lab-02/images/depositphotos_36366775-stock-photo-blue-professional-background.jpg);
+   background-repeat: no-repeat;
+  background-size: cover;
+}  
+header{
+   text-align: center;
+   font-size:xx-large ;
+}
+.description{
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.description:hover{
+    color: red;
+}
+.Class{ 
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Class:hover{ 
+    color: red;
+    
+}
+.Courses{
+    list-style: lower-alpha;
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Courses:hover{
+color: red;
+}
+.Movies{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Movies:hover{
+    color: red;
+}
+.typesofMovies{
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.typesofMovies:hover{
+    color:red;
+}
+.Moods{
+color: blue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Moods:hover{
+    color:red;
+    }
+p{
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.happy{
+    width: 400px;
+    height: 400px;
+}
+.angry{
+    width: 400px;
+    height: 400px;
+}
+.Facts{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Facts:hover{
+    color:red;
+}
+.Neighbors{
+    color: gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Neighbors:hover{
+    color: red;
+    
+}
+
+
